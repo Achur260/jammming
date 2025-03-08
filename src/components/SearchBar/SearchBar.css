@@ -1,0 +1,20 @@
+.SearchBar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+input
+{
+    background-color: darkslategray;
+    border-color: darkslategray;
+    border-radius: 5px;
+}
+
+button {
+    background-color: navy;
+    border-color: navy;
+    border-radius: 5px;
+    margin-left: 10px;
+}

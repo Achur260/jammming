@@ -1,0 +1,24 @@
+div.playlist{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    margin-right: 100px;
+    width: 300px;
+
+}
+
+
+
+input.playlistTitle {
+    justify-self: start;
+    background-color: darkslategray;
+    margin-bottom: 5px;
+}
+
+
+button {
+
+    margin-top:auto;
+
+}
