@@ -1,7 +1,6 @@
 import React, {useState, useCallback} from 'react';
 
 import './SearchBar.css';
-import track from "../Track/Track";
 function SearchBar(props) {
 
     const [entry, setEntry] = useState("");
